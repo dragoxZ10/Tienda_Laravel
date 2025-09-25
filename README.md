@@ -16,12 +16,11 @@ Asegúrate de tener instalados:
 
 - [Composer](https://getcomposer.org/)
 - [Node.js y NPM](https://nodejs.org/)
-- [Xammp (https://www.apachefriends.org/es/index.html) 
-- [MySQL o PostgreSQL](https://www.mysql.com/) (u otro motor de base de datos compatible)
+- [Xammp] (https://www.apachefriends.org/es/index.html) 
 
 ---
 
-## ⚙️ Instalación
+## A. Instalación
 
 **1. Clona el repositorio:**
    ```bash
@@ -47,7 +46,7 @@ Asegúrate de tener instalados:
    cp .env.example .env
    ```
 
-   Edita el archivo `.env` con tus credenciales (DB, mail, etc.).
+   Edita el archivo `.env` con tus credenciales.
 
 5. Genera la clave de la aplicación:
 
@@ -63,7 +62,7 @@ Asegúrate de tener instalados:
 
 ---
 
-## ▶️ Ejecución del proyecto
+## B. Ejecución del proyecto
 
 En dos terminales diferentes:
 
