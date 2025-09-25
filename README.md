@@ -16,7 +16,7 @@ Asegúrate de tener instalados:
 
 - [Composer](https://getcomposer.org/)
 - [Node.js y NPM](https://nodejs.org/)
-- [Xammp] (https://www.apachefriends.org/es/index.html) 
+- [Xammp](https://www.apachefriends.org/es/index.html) 
 
 ---
 
